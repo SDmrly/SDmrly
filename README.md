@@ -71,7 +71,7 @@ Merhaba! Ben **Sinan Demiralay**, backend odaklı bir yazılım geliştiricisiyi
 
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [**cms_service**](https://github.com/SDmrly/cms_service) | İçerik Yönetim Sistemi Backend | `Java` `Spring Boot` `REST API` `JPA` |
+| [**mt2_panel**](https://github.com/SDmrly/mt2_panel) | Docker Container yönetim aracı | `Nestjs` `React` `PostgreSQL` `Docker Socket` |
 | [**go_fiber_crud**](https://github.com/SDmrly/go_fiber_crud) | Go Fiber ile Yüksek Performanslı CRUD API | `Go` `Fiber` `GORM` |
 | [**VetApp**](https://github.com/SDmrly/VetApp) | Veteriner Klinik Yönetim Sistemi | `Spring Boot` `Thymeleaf` `PostgreSQL` `Spring Security` |
 | [**DevsApp**](https://github.com/SDmrly/DevsApp) | Geliştirici Topluluk Platformu | `Java` `Spring` `JPA` |
